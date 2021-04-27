@@ -2,7 +2,7 @@
 
 # Below is what needs to be installed/imported which can also be seen in the code itself: 
 
-Install tensorflow 1.13.1
+Install tensorflow 1.13.1 (version 2 of tensorflow will not work for this)
 
 Install TFANN
 
