@@ -20,6 +20,8 @@ import statistics
 
 import xlrd
 
+Note: Runtime needs to be restarted after installing tensorflow in order for code to work
+
 
 # Issues along the way: 
 
