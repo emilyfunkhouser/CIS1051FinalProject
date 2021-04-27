@@ -25,6 +25,8 @@ Note: I have preprocessed Excel files that have to be uploaded using files.uploa
 
 # Issues along the way: 
 
+I attempted to use iexfinance, but I was having issues involving tokens, etc. Thus, I ended up downloading Yahoo Finance data instead (4/26/16 - 4/26/21). 
+
 Installing required modules (Needed to use older version of tensorflow, struggled trying to find a solution to this issue)
 
 Order of executing statements (Needed to restart runtime after importing the old version of tensorflow for the code to work)
