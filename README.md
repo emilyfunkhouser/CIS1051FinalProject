@@ -52,3 +52,7 @@ The problem solving aspect of creating this project.
 Applying both Finance/CS knowledge.
 
 Having created a simple stock predictor model that could definitely be expanded on the future as I explore more fintech concepts. 
+
+# Youtube Link: 
+https://youtu.be/UspyBjTN7TU
+Video is also attached on canvas. 
