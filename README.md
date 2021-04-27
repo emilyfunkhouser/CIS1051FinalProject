@@ -1,6 +1,6 @@
 # CIS1051FinalProject
 
-Below is what needs to be installed/imported which can also be seen in the code itself: 
+# Below is what needs to be installed/imported which can also be seen in the code itself: 
 
 Install tensorflow 1.13.1
 
@@ -21,7 +21,7 @@ import statistics
 import xlrd
 
 
-Issues along the way: 
+# Issues along the way: 
 
 Installing required modules (Needed to use older version of tensorflow, struggled trying to find a solution to this issue)
 
