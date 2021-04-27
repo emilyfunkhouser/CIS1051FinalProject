@@ -20,6 +20,8 @@ import statistics
 
 import xlrd
 
+Note: You must restart the runtime after installing tensorflow and before executing what is below. You can see the specific line this correponds to by viewing the jupyter notebook. 
+
 Note: I have preprocessed Excel files that have to be uploaded using files.upload(). These files will be uploaded to GitHub.
 
 
