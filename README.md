@@ -15,6 +15,7 @@ import xlrd
 Issues along the way: 
 
 Installing required modules (Needed to use older version of tensorflow, struggled trying to find a solution to this issue)
+
 Order of executing statements (Needed to restart runtime after importing the old version of tensorflow for the code to work)
 Preprocessing data (Skipped this step originally and had to research what the issue was)
 Utilizing Google Colab notebooks (New skill I needed to adapt to learn)
