@@ -22,6 +22,8 @@ import xlrd
 
 Note: Runtime needs to be restarted after installing tensorflow in order for code to work
 
+Note: I have preprocessed Excel files that have to be uploaded using files.upload(). These files will be uploaded to GitHub.
+
 
 # Issues along the way: 
 
