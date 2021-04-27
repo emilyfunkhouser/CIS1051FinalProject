@@ -55,4 +55,3 @@ Having created a simple stock predictor model that could definitely be expanded 
 
 # Youtube Link: 
 https://youtu.be/UspyBjTN7TU
-Video is also attached on canvas. 
